@@ -14,7 +14,8 @@ Welcome to the **Auto-Clicker**! This powerful bot allows you to remotely contro
 
 ## 📥 Download
 
-- [Download](https://github.com/Farmerok/Auto-Clicker/archive/refs/heads/main.zip)
+- [Download open source](https://github.com/Farmerok/Auto-Clicker/archive/refs/heads/main.zip)
+- [Download exe](https://github.com/Farmerok/Auto-Clicker/raw/main/src/Compiled/AutoClicker.exe)
 
 ## 📇 Contact Information
 
